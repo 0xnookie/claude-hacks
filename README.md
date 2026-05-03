@@ -2,6 +2,6 @@
 
 <div align="center">
 
-<img src="assets/hexstrike-logo.png" alt="HexStrike AI Logo" width="220" style="margin-bottom: 20px;"/>
+<img src="assets/claude-hacks-logo.png" alt="Claude Hacks Logo" width="220" style="margin-bottom: 20px;"/>
 
 </div>
