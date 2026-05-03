@@ -3,8 +3,8 @@
 <img src="assets/claude-hacks-logo.png" width="500" alt="Claude Hacks Logo" />
 
 # Claude Hacks
-[![Claude](https://img.shields.io/badge/Version-Hacks-orange)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange)]()
+[![Claude](https://img.shields.io/badge/Claude-Hacks-orange)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-red)]()
 
 </div>
 
