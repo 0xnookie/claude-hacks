@@ -41,9 +41,14 @@ After every correction, end with: **"Update your CLAUDE.md so you don't make tha
 ## Commands
 
 ### Auto Mode — A Safer Way to Skip Permissions
-
 ```claude --enable-auto-mode```
 > Instead of approving every file write and bash command, or skipping permissions entirely with --dangerously-skip-permissions, auto mode lets Claude make permission decisions on your behalf.
+
+### /simplify — Improve Code Quality
+Use parallel agents to **improve code quality**, tune code efficiency, and ensure CLAUDE.md compliance. Just append /simplify to any prompt.
+```hey claude make this code change then run /simplify```
+> Runs parallel agents that review your changed code for reuse opportunities, quality issues, and efficiency improvements — all in one pass.
+
 
 
 ### /schedule — Cloud Jobs
