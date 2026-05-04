@@ -59,3 +59,14 @@ Use parallel agents to **improve code quality**, tune code efficiency, and ensur
 ### /schedule — Cloud Jobs
 ```/schedule a daily job ...```
 > Use /schedule to create recurring cloud-based jobs for Claude, directly from the terminal. Unlike /loop (which runs locally for up to 3 days), scheduled jobs run in the cloud — they work even when your laptop is closed.
+
+### /compact vs /clear — Know the Difference
+
+```/compact — lossy LLM summary```
+
+Claude summarizes the conversation and replaces the history with that summary. Cheap, keeps momentum, details can be fuzzy. You're trusting Claude to decide what mattered.
+
+
+```/clear — hand-written brief```
+
+You write down what matters ("we're refactoring the auth middleware, constraint is X, files are A and B, we've ruled out approach Y") and start clean. More work, but the context is exactly what you decided.
