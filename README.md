@@ -1,16 +1,12 @@
 <div align="center">
-  
 <img src="assets/claude-hacks-logo.png" width="500" alt="Claude Hacks Logo" />
+</div>
 
 # Claude Hacks
 [![Claude](https://img.shields.io/badge/Claude-Hacks-orange)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-red)]()
 
 A handpicked collection of Claude hacks, prompts, and resources to unlock more power, speed, and creativity from your AI workflows.
-
-</div>
-
-
 
 ## Useful repositories
 - [Claude Code Templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
