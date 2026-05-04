@@ -49,7 +49,12 @@ Use parallel agents to **improve code quality**, tune code efficiency, and ensur
 ```hey claude make this code change then run /simplify```
 > Runs parallel agents that review your changed code for reuse opportunities, quality issues, and efficiency improvements — all in one pass.
 
+### Auto-Memory & Auto-Dream — Persistent, Self-Cleaning Memory
+```/memory```
+> Auto-Memory: When enabled, Claude automatically saves preferences, corrections, and patterns between sessions. No manual CLAUDE.md editing needed — Claude writes the memories for you.
 
+```/dream```
+> Auto-Dream: As memory accumulates, it can get messy — outdated assumptions, overlapping notes, low-signal entries. Auto-dream runs a subagent that periodically reviews past sessions, keeps what matters, removes what doesn't, and merges insights into cleaner structured memory. The naming maps to how REM sleep consolidates short-term memory into long-term storage.
 
 ### /schedule — Cloud Jobs
 ```/schedule a daily job ...```
