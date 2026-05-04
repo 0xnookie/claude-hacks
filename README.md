@@ -19,3 +19,16 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ## Skills
 - [Promp Master](https://github.com/nidhinjs/prompt-master): A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
+
+
+## Commands
+
+### Auto Mode — A Safer Way to Skip Permissions
+
+```claude --enable-auto-mode```
+> Instead of approving every file write and bash command, or skipping permissions entirely with --dangerously-skip-permissions, auto mode lets Claude make permission decisions on your behalf.
+
+
+### /schedule — Cloud Jobs
+```/schedule a daily job ...```
+> Use /schedule to create recurring cloud-based jobs for Claude, directly from the terminal. Unlike /loop (which runs locally for up to 3 days), scheduled jobs run in the cloud — they work even when your laptop is closed.
