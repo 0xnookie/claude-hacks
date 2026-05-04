@@ -11,7 +11,10 @@
 
 
 ## Useful repositories
-- [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents.
+- [Claude Code Templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code): About
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond
+- [AI Website Cloner Template](https://github.com/JCodesMore/ai-website-cloner-template): A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents
 - [Paperclip](https://github.com/paperclipai/paperclip): Open-source orchestration for zero-human companies
 
 ## Skills
