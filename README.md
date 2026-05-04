@@ -8,7 +8,8 @@
 
 A handpicked collection of Claude hacks, prompts, and resources to unlock more power, speed, and creativity from your AI workflows.
 
-## Useful repositories
+## Useful
+- [How Boris Cherny Uses Claude Code](https://howborisusesclaudecode.com/)
 - [Claude Code Templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code): About
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond
