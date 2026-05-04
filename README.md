@@ -9,6 +9,7 @@
 A handpicked collection of Claude hacks, prompts, and resources to unlock more power, speed, and creativity from your AI workflows.
 
 ## Useful
+- [Claude Obsidian](https://github.com/AgriciDaniel/claude-obsidian): Claude + Obsidian knowledge companion. A running notetaker that builds and maintains a persistent, compounding wiki vault. Every source you add gets integrated. Every question you ask pulls from everything that has been read.
 - [How Boris Cherny Uses Claude Code](https://howborisusesclaudecode.com/)
 - [Claude Code Templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code): About
