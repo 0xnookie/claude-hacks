@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/claude-hacks-logo.png" width="500" alt="Claude Hacks Logo" />
+<img src="assets/claude-hacks-logo.png" width="400" alt="Claude Hacks Logo" />
 </div>
 
 # Claude Hacks
