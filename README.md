@@ -6,6 +6,8 @@
 [![Claude](https://img.shields.io/badge/Claude-Hacks-orange)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-red)]()
 
+A handpicked collection of Claude hacks, prompts, and resources to unlock more power, speed, and creativity from your AI workflows.
+
 </div>
 
 
