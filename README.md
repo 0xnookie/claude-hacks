@@ -21,6 +21,23 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 - [Promp Master](https://github.com/nidhinjs/prompt-master): A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 
 
+## CLAUDE.md
+After every correction, end with: **"Update your CLAUDE.md so you don't make that mistake again."** Claude is eerily good at writing rules for itself.
+> Ruthlessly edit your CLAUDE.md over time. Keep iterating until Claude's mistake rate measurably drops.
+
+## Use Subagents
+- Append "use subagents" to any request where you want Claude to throw more compute at the problem.
+- Offload individual tasks to subagents to keep your main agent's context window clean and focused.
+- Route permission requests to Opus 4.5 via a hook — let it scan for attacks and auto-approve the safe ones.
+
+## Level Up Your Prompting
+- **Challenge Claude.** Say "Grill me on these changes and don't make a PR until I pass your test." Make Claude be your reviewer. Or, say "Prove to me this works" and have Claude diff behavior between main and your feature branch.
+- **After a mediocre fix**, say: "Knowing everything you know now, scrap this and implement the elegant solution."
+- **Write detailed specs** and reduce ambiguity before handing work off. The more specific you are, the better the output.
+
+> Don't accept the first solution. Push Claude to do better — it usually can.
+
+
 ## Commands
 
 ### Auto Mode — A Safer Way to Skip Permissions
